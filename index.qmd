@@ -1,0 +1,132 @@
+---
+title: "&#8203;"
+title-slide-attributes:
+    data-background-image: imgs/title.jpg
+    data-background-size: contain
+    data-background-opacity: "1.0"
+author: "&#8203;"
+format: 
+    revealjs:
+        theme: [default, custom.scss]
+        transition: fade
+        slide-number: true
+        preview-links: true
+        incremental: true
+        embed-resources: false
+        notes: false
+        self-contained-math: true
+---
+
+## Allan Spadini
+
+-   Doutor em Geofísica e Instrutor de Ciência de Dados e Inteligência Artificial
+
+-   Desenvolvimento de cursos e formação de profissionais em IA
+
+## Github Copilot
+
+::::: columns
+::: {.column width="80%"}
+-   Programador em par
+
+-   Completador de código
+
+-   Assistente com contexto
+:::
+
+::: {.column width="20%"}
+![](https://i.namu.wiki/i/-3RnHrmCsL2np-jpvA1NQAFayTOuX8yqQg3sfwJBb5glZLSYtr1NHDpsaL21nDqiKlzupJT_0ixZK5rmqHAlspXHiN-yX-VZD7CdLETDU_U3ej5ywCWkfFQSFOKSoNOHoE_Zl3PeMMeSltZRsxhKHA.webp){fig-align="left"}
+:::
+:::::
+
+## Github Copilot
+
+::::: columns
+
+::: {.column width="80%"}
+-   Aumento da produtividade
+
+-   Redução do trabalho repetitivo
+
+-   Manter o desenvolvedor em estado de fluxo
+
+:::
+
+::: {.column width="20%"}
+
+![](https://i.namu.wiki/i/-3RnHrmCsL2np-jpvA1NQAFayTOuX8yqQg3sfwJBb5glZLSYtr1NHDpsaL21nDqiKlzupJT_0ixZK5rmqHAlspXHiN-yX-VZD7CdLETDU_U3ej5ywCWkfFQSFOKSoNOHoE_Zl3PeMMeSltZRsxhKHA.webp){fig-align="left"}
+
+:::
+
+:::::
+
+## Como funciona
+
+- GPT4o Copilot
+- Assistente
+    - GPT
+    - Claude
+    - Gemini
+
+## Aplicações práticas
+
+Geração de funções a partir de comentários: 
+
+``` Python
+# Função que lê um arquivo CSV com pandas e retorna as 5 primeiras linhas
+import pandas as pd
+
+def ler_csv_head(caminho_arquivo):
+    df = pd.read_csv(caminho_arquivo)
+    return df.head()
+
+```
+
+##  Aplicações práticas
+
+- Dúvidas de pontos específicos
+- Chatbot
+
+## Por que testar?
+
+::::: columns
+
+::: {.column width="80%"}
+
+- Garantia de qualidade
+- Prevenção de Regressões
+- Facilita a refatoração
+- Documentação Viva
+
+:::
+
+::: {.column width="20%"}
+
+![](https://upload.wikimedia.org/wikipedia/commons/b/ba/Pytest_logo.svg)
+
+:::
+::::
+
+::: { .notes}
+Garantia de Qualidade: Assegura que o código faz o que se espera.
+Prevenção de Regressões: Evita que novas mudanças quebrem funcionalidades existentes.
+Facilita a Refatoração: Dá segurança para melhorar o código sem medo.
+Documentação Viva: Testes descrevem como o código deve se comportar.
+:::
+
+## Copilot para testes
+
+- Você escreve sua função.
+- Em um arquivo de teste (ex: test_minha_funcao.py), você escreve um comentário descrevendo o teste.
+- O Copilot gera o corpo do teste, incluindo as asserções (assert).
+
+## Copilot para testes
+
+- Testes unitários
+- Geração de Dados Falsos (Mock Data)
+
+::: { .notes}
+Tipos de Teste:
+Testes Unitários: Ideal para gerar casos de teste comuns e de borda (edge cases).
+Geração de Dados Falsos (Mock Data): Crie rapidamente listas de dicionários ou DataFrames para usar nos testes.
+:::

@@ -1,0 +1,125 @@
+/*-- scss:defaults --*/
+
+// Fontes
+$font-family-sans-serif: "Montserrat", sans-serif !default;
+$font-family-heading: "Montserrat", sans-serif !default;
+
+// Cores principais
+$body-bg: #ededed !default; /* Fundo principal */
+$body-color: #1b1b1b !default; /* Cor do texto */
+$link-color: #2800ff !default; /* Cor dos links */
+$selection-bg: #7a73ff !default; /* Fundo ao selecionar texto */
+
+// Títulos
+$presentation-heading-font: "Montserrat Bold", sans-serif !default;
+$presentation-heading-color: #2800ff !default;
+
+// Cores adicionais
+$background-accent: #ffffff !default; /* Fundo de destaque */
+$border-color: #1b1b1b !default; /* Cor para bordas */
+
+$slide-title-color: #2800ff !default; /* Cor dos títulos nos slides */
+$slide-subtitle-color: #7a73ff !default; /* Cor dos subtítulos */
+$slide-text-color: #1b1b1b !default; /* Cor do texto corrido */
+
+// Tamanhos de fonte
+$font-size-base: 16px !default; /* Tamanho base */
+$font-size-heading: 2em !default; /* Tamanho dos títulos */
+$font-size-subtitle: 1.5em !default; /* Tamanho dos subtítulos */
+$font-size-text: 1em !default; /* Tamanho do texto corrido */
+
+/*-- scss:rules --*/
+
+/* Estilo para o slide inicial */
+.reveal .custom-title-slide {
+    text-align: center; /* Centraliza o texto */
+    color: #7a73ff; /* Cor do texto do título */
+    font-family: "Montserrat", sans-serif; /* Fonte personalizada */
+  }
+  
+  .reveal .custom-title-slide h1 {
+    color: #7a73ff; /* Título principal em roxo */
+    font-size: 2.5em;
+  }
+  
+  .reveal .custom-title-slide h2 {
+    color: #ffffff; /* Subtítulo em branco */
+    font-size: 2em;
+  }
+  
+
+// Estilo para o corpo dos slides
+.reveal {
+  font-family: $font-family-sans-serif;
+  background-color: $body-bg;
+  color: $body-color;
+
+  a {
+    color: $link-color;
+    text-decoration: underline;
+
+    &:hover {
+      color: lighten($link-color, 15%);
+    }
+  }
+}
+
+// Títulos dos slides
+.reveal .slide h1,
+.reveal .slide h2,
+.reveal .slide h3 {
+  font-family: $presentation-heading-font;
+  color: $slide-title-color;
+  margin-bottom: 0.5em;
+}
+
+// Subtítulos
+.reveal .slide h4 {
+  font-family: "Montserrat Medium", sans-serif;
+  color: $slide-subtitle-color;
+  margin-bottom: 0.5em;
+}
+
+// Texto corrido
+.reveal .slide p {
+  font-family: "Montserrat Normal", sans-serif;
+  color: $slide-text-color;
+  font-size: $font-size-text;
+  line-height: 1.6;
+}
+
+// Destaques e blocos de citação
+.reveal .slide blockquote {
+  font-family: "Montserrat Bold", sans-serif;
+  border-left: 3px solid $link-color;
+  padding-left: 0.5em;
+  color: $slide-text-color;
+}
+
+// Fundo de destaque para blocos
+.reveal .slide .highlight {
+  background-color: $background-accent;
+  border: 1px solid $border-color;
+  padding: 1em;
+  border-radius: 5px;
+}
+
+// Estilo para o primeiro slide
+.reveal .slide.first-slide {
+  background-color: #1b1b1b; /* Fundo preto */
+  color: #ffffff; /* Texto branco */
+  text-align: center;
+
+  h1 {
+    font-family: "Montserrat Medium", sans-serif;
+    color: #7a73ff; /* Título roxinho */
+    font-size: 2.5em;
+  }
+
+  h2 {
+    font-family: "Montserrat Bold", sans-serif;
+    color: #ffffff; /* Parte destacada em branco */
+    font-size: 3em;
+    margin-top: 0.5em;
+  }
+}

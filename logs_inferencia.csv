@@ -1,0 +1,501 @@
+timestamp,input_text,predicted_label,true_label,latency_ms,confidence
+2025-06-01 08:00:00,Excelente atendimento,positive,positive,132,0.77
+2025-06-01 08:05:00,Não funcionou direito,negative,negative,166,0.79
+2025-06-01 08:10:00,Muito satisfeito com a compra,positive,positive,168,0.91
+2025-06-01 08:15:00,Excelente atendimento,positive,positive,137,0.82
+2025-06-01 08:20:00,Muito satisfeito com a compra,positive,positive,197,0.88
+2025-06-01 08:25:00,"Muito ruim, não recomendo",negative,negative,113,0.83
+2025-06-01 08:30:00,Péssima qualidade,negative,negative,104,0.85
+2025-06-01 08:35:00,Produto chegou quebrado,negative,negative,137,0.98
+2025-06-01 08:40:00,Péssima qualidade,negative,negative,154,0.9
+2025-06-01 08:45:00,Muito satisfeito com a compra,positive,positive,149,0.97
+2025-06-01 08:50:00,Experiência horrível,negative,negative,101,0.98
+2025-06-01 08:55:00,"Muito ruim, não recomendo",negative,negative,171,0.98
+2025-06-01 09:00:00,Não funcionou direito,negative,negative,140,0.97
+2025-06-01 09:05:00,"Muito ruim, não recomendo",negative,negative,164,0.97
+2025-06-01 09:10:00,Entrega rápida e produto perfeito,positive,positive,144,0.94
+2025-06-01 09:15:00,Não funcionou direito,negative,negative,140,0.89
+2025-06-01 09:20:00,Produto chegou quebrado,positive,negative,183,0.84
+2025-06-01 09:25:00,Super recomendo,positive,positive,179,0.75
+2025-06-01 09:30:00,"Muito ruim, não recomendo",negative,negative,192,0.98
+2025-06-01 09:35:00,Não funcionou direito,positive,negative,103,0.8
+2025-06-01 09:40:00,"Muito ruim, não recomendo",negative,negative,104,0.78
+2025-06-01 09:45:00,"Muito ruim, não recomendo",negative,negative,171,0.96
+2025-06-01 09:50:00,Super recomendo,positive,positive,179,0.93
+2025-06-01 09:55:00,Não funcionou direito,negative,negative,164,0.91
+2025-06-01 10:00:00,"Muito ruim, não recomendo",negative,negative,148,0.93
+2025-06-01 10:05:00,Excelente atendimento,negative,positive,178,0.83
+2025-06-01 10:10:00,"Muito ruim, não recomendo",negative,negative,139,0.99
+2025-06-01 10:15:00,Experiência horrível,positive,negative,196,0.85
+2025-06-01 10:20:00,"Muito ruim, não recomendo",negative,negative,163,0.71
+2025-06-01 10:25:00,Produto chegou quebrado,negative,negative,124,0.78
+2025-06-01 10:30:00,Experiência horrível,negative,negative,194,0.78
+2025-06-01 10:35:00,Super recomendo,positive,positive,161,0.85
+2025-06-01 10:40:00,"Produto muito bom, gostei",positive,positive,164,0.87
+2025-06-01 10:45:00,Não funcionou direito,negative,negative,170,0.95
+2025-06-01 10:50:00,Muito satisfeito com a compra,positive,positive,156,0.75
+2025-06-01 10:55:00,Entrega rápida e produto perfeito,positive,positive,122,0.72
+2025-06-01 11:00:00,Péssima qualidade,negative,negative,106,0.99
+2025-06-01 11:05:00,Não funcionou direito,negative,negative,133,0.82
+2025-06-01 11:10:00,Muito satisfeito com a compra,positive,positive,113,0.94
+2025-06-01 11:15:00,Entrega rápida e produto perfeito,negative,positive,123,0.85
+2025-06-01 11:20:00,Não funcionou direito,negative,negative,163,0.97
+2025-06-01 11:25:00,Produto chegou quebrado,positive,negative,199,0.79
+2025-06-01 11:30:00,"Muito ruim, não recomendo",negative,negative,122,0.74
+2025-06-01 11:35:00,Muito satisfeito com a compra,positive,positive,141,0.94
+2025-06-01 11:40:00,Muito satisfeito com a compra,positive,positive,188,0.78
+2025-06-01 11:45:00,Muito satisfeito com a compra,positive,positive,171,0.87
+2025-06-01 11:50:00,Não funcionou direito,negative,negative,103,0.88
+2025-06-01 11:55:00,"Produto muito bom, gostei",positive,positive,105,0.7
+2025-06-01 12:00:00,Péssima qualidade,negative,negative,193,0.84
+2025-06-01 12:05:00,"Produto muito bom, gostei",positive,positive,123,0.85
+2025-06-01 12:10:00,Super recomendo,positive,positive,129,0.97
+2025-06-01 12:15:00,Entrega rápida e produto perfeito,positive,positive,171,0.74
+2025-06-01 12:20:00,Produto chegou quebrado,negative,negative,143,0.8
+2025-06-01 12:25:00,Experiência horrível,positive,negative,118,0.96
+2025-06-01 12:30:00,Produto chegou quebrado,negative,negative,105,0.8
+2025-06-01 12:35:00,"Muito ruim, não recomendo",negative,negative,151,0.96
+2025-06-01 12:40:00,Experiência horrível,negative,negative,143,0.99
+2025-06-01 12:45:00,Produto chegou quebrado,positive,negative,114,0.79
+2025-06-01 12:50:00,"Muito ruim, não recomendo",negative,negative,165,0.85
+2025-06-01 12:55:00,"Produto muito bom, gostei",positive,positive,198,0.89
+2025-06-01 13:00:00,Produto chegou quebrado,positive,negative,128,0.87
+2025-06-01 13:05:00,Experiência horrível,positive,negative,151,0.7
+2025-06-01 13:10:00,Excelente atendimento,negative,positive,151,0.76
+2025-06-01 13:15:00,Excelente atendimento,positive,positive,134,0.96
+2025-06-01 13:20:00,Muito satisfeito com a compra,positive,positive,165,0.94
+2025-06-01 13:25:00,Excelente atendimento,positive,positive,167,0.86
+2025-06-01 13:30:00,Entrega rápida e produto perfeito,positive,positive,166,0.97
+2025-06-01 13:35:00,Super recomendo,negative,positive,122,0.82
+2025-06-01 13:40:00,Péssima qualidade,negative,negative,117,0.86
+2025-06-01 13:45:00,Não funcionou direito,negative,negative,142,0.9
+2025-06-01 13:50:00,Não funcionou direito,negative,negative,172,0.9
+2025-06-01 13:55:00,Muito satisfeito com a compra,positive,positive,126,0.7
+2025-06-01 14:00:00,Péssima qualidade,negative,negative,176,0.75
+2025-06-01 14:05:00,Entrega rápida e produto perfeito,positive,positive,147,0.78
+2025-06-01 14:10:00,Não funcionou direito,positive,negative,163,0.81
+2025-06-01 14:15:00,Não funcionou direito,positive,negative,155,0.72
+2025-06-01 14:20:00,"Produto muito bom, gostei",positive,positive,196,0.99
+2025-06-01 14:25:00,Não funcionou direito,negative,negative,151,0.74
+2025-06-01 14:30:00,Não funcionou direito,negative,negative,117,0.84
+2025-06-01 14:35:00,Produto chegou quebrado,negative,negative,163,0.74
+2025-06-01 14:40:00,Entrega rápida e produto perfeito,positive,positive,168,0.81
+2025-06-01 14:45:00,Entrega rápida e produto perfeito,negative,positive,188,0.73
+2025-06-01 14:50:00,Muito satisfeito com a compra,positive,positive,144,0.8
+2025-06-01 14:55:00,"Produto muito bom, gostei",positive,positive,135,0.8
+2025-06-01 15:00:00,Muito satisfeito com a compra,positive,positive,150,0.77
+2025-06-01 15:05:00,Entrega rápida e produto perfeito,negative,positive,162,0.78
+2025-06-01 15:10:00,Experiência horrível,negative,negative,107,0.87
+2025-06-01 15:15:00,"Produto muito bom, gostei",positive,positive,158,0.99
+2025-06-01 15:20:00,Produto chegou quebrado,negative,negative,138,0.9
+2025-06-01 15:25:00,Excelente atendimento,positive,positive,152,0.95
+2025-06-01 15:30:00,"Muito ruim, não recomendo",negative,negative,117,0.93
+2025-06-01 15:35:00,Experiência horrível,positive,negative,190,0.86
+2025-06-01 15:40:00,Muito satisfeito com a compra,positive,positive,141,0.95
+2025-06-01 15:45:00,"Produto muito bom, gostei",positive,positive,141,0.88
+2025-06-01 15:50:00,"Muito ruim, não recomendo",negative,negative,115,0.81
+2025-06-01 15:55:00,Entrega rápida e produto perfeito,positive,positive,101,0.8
+2025-06-01 16:00:00,"Produto muito bom, gostei",positive,positive,116,0.94
+2025-06-01 16:05:00,Super recomendo,negative,positive,104,0.87
+2025-06-01 16:10:00,Excelente atendimento,negative,positive,114,0.78
+2025-06-01 16:15:00,"Muito ruim, não recomendo",positive,negative,145,0.8
+2025-06-01 16:20:00,"Produto muito bom, gostei",positive,positive,154,0.72
+2025-06-01 16:25:00,"Produto muito bom, gostei",positive,positive,187,0.88
+2025-06-01 16:30:00,"Produto muito bom, gostei",positive,positive,190,0.91
+2025-06-01 16:35:00,Experiência horrível,negative,negative,198,0.74
+2025-06-01 16:40:00,"Muito ruim, não recomendo",negative,negative,117,0.97
+2025-06-01 16:45:00,"Muito ruim, não recomendo",negative,negative,176,0.86
+2025-06-01 16:50:00,Produto chegou quebrado,negative,negative,168,0.81
+2025-06-01 16:55:00,Super recomendo,positive,positive,199,0.98
+2025-06-01 17:00:00,Péssima qualidade,negative,negative,112,0.96
+2025-06-01 17:05:00,Experiência horrível,negative,negative,177,0.98
+2025-06-01 17:10:00,Muito satisfeito com a compra,positive,positive,162,0.97
+2025-06-01 17:15:00,Experiência horrível,negative,negative,148,0.8
+2025-06-01 17:20:00,Produto chegou quebrado,negative,negative,192,0.92
+2025-06-01 17:25:00,Péssima qualidade,negative,negative,169,0.74
+2025-06-01 17:30:00,"Muito ruim, não recomendo",negative,negative,197,0.73
+2025-06-01 17:35:00,Super recomendo,positive,positive,174,0.91
+2025-06-01 17:40:00,"Muito ruim, não recomendo",positive,negative,116,0.73
+2025-06-01 17:45:00,Excelente atendimento,positive,positive,165,0.96
+2025-06-01 17:50:00,"Produto muito bom, gostei",positive,positive,192,0.99
+2025-06-01 17:55:00,"Muito ruim, não recomendo",negative,negative,144,0.75
+2025-06-01 18:00:00,Experiência horrível,negative,negative,126,0.94
+2025-06-01 18:05:00,"Produto muito bom, gostei",positive,positive,144,0.76
+2025-06-01 18:10:00,Entrega rápida e produto perfeito,positive,positive,127,0.73
+2025-06-01 18:15:00,Excelente atendimento,positive,positive,150,0.94
+2025-06-01 18:20:00,Não funcionou direito,negative,negative,196,0.77
+2025-06-01 18:25:00,Excelente atendimento,positive,positive,187,0.74
+2025-06-01 18:30:00,Péssima qualidade,negative,negative,156,0.94
+2025-06-01 18:35:00,Super recomendo,positive,positive,133,0.87
+2025-06-01 18:40:00,Excelente atendimento,positive,positive,138,0.78
+2025-06-01 18:45:00,"Muito ruim, não recomendo",negative,negative,114,0.79
+2025-06-01 18:50:00,Entrega rápida e produto perfeito,negative,positive,194,0.91
+2025-06-01 18:55:00,"Muito ruim, não recomendo",positive,negative,154,0.77
+2025-06-01 19:00:00,"Muito ruim, não recomendo",negative,negative,182,0.88
+2025-06-01 19:05:00,Péssima qualidade,negative,negative,140,0.84
+2025-06-01 19:10:00,Péssima qualidade,negative,negative,172,0.88
+2025-06-01 19:15:00,Super recomendo,positive,positive,176,0.95
+2025-06-01 19:20:00,Super recomendo,positive,positive,162,0.89
+2025-06-01 19:25:00,Super recomendo,positive,positive,104,0.9
+2025-06-01 19:30:00,"Muito ruim, não recomendo",positive,negative,176,0.97
+2025-06-01 19:35:00,Produto chegou quebrado,negative,negative,153,0.99
+2025-06-01 19:40:00,Super recomendo,negative,positive,140,0.75
+2025-06-01 19:45:00,"Produto muito bom, gostei",positive,positive,143,0.95
+2025-06-01 19:50:00,Não funcionou direito,negative,negative,101,0.96
+2025-06-01 19:55:00,"Produto muito bom, gostei",positive,positive,175,0.97
+2025-06-01 20:00:00,Entrega rápida e produto perfeito,positive,positive,161,0.79
+2025-06-01 20:05:00,Experiência horrível,negative,negative,110,0.77
+2025-06-01 20:10:00,Não funcionou direito,positive,negative,190,0.77
+2025-06-01 20:15:00,Super recomendo,positive,positive,183,0.83
+2025-06-01 20:20:00,Não funcionou direito,negative,negative,182,0.97
+2025-06-01 20:25:00,"Produto muito bom, gostei",positive,positive,185,1.0
+2025-06-01 20:30:00,Excelente atendimento,positive,positive,197,0.86
+2025-06-01 20:35:00,Excelente atendimento,positive,positive,166,0.74
+2025-06-01 20:40:00,Excelente atendimento,positive,positive,163,0.87
+2025-06-01 20:45:00,Experiência horrível,negative,negative,158,0.74
+2025-06-01 20:50:00,Excelente atendimento,positive,positive,190,0.89
+2025-06-01 20:55:00,"Produto muito bom, gostei",positive,positive,155,0.74
+2025-06-01 21:00:00,Excelente atendimento,negative,positive,164,0.81
+2025-06-01 21:05:00,Péssima qualidade,negative,negative,108,0.77
+2025-06-01 21:10:00,Experiência horrível,negative,negative,143,0.94
+2025-06-01 21:15:00,Muito satisfeito com a compra,positive,positive,147,0.76
+2025-06-01 21:20:00,Muito satisfeito com a compra,positive,positive,146,0.71
+2025-06-01 21:25:00,Péssima qualidade,negative,negative,186,0.73
+2025-06-01 21:30:00,Muito satisfeito com a compra,positive,positive,199,0.75
+2025-06-01 21:35:00,Não funcionou direito,negative,negative,175,0.81
+2025-06-01 21:40:00,"Produto muito bom, gostei",positive,positive,103,0.89
+2025-06-01 21:45:00,Entrega rápida e produto perfeito,positive,positive,159,0.99
+2025-06-01 21:50:00,Entrega rápida e produto perfeito,positive,positive,124,0.93
+2025-06-01 21:55:00,Excelente atendimento,negative,positive,162,0.97
+2025-06-01 22:00:00,Entrega rápida e produto perfeito,positive,positive,122,0.78
+2025-06-01 22:05:00,Entrega rápida e produto perfeito,positive,positive,177,0.78
+2025-06-01 22:10:00,Péssima qualidade,positive,negative,161,0.87
+2025-06-01 22:15:00,"Produto muito bom, gostei",positive,positive,176,0.79
+2025-06-01 22:20:00,Experiência horrível,negative,negative,109,0.97
+2025-06-01 22:25:00,Não funcionou direito,negative,negative,189,0.93
+2025-06-01 22:30:00,Super recomendo,positive,positive,189,0.7
+2025-06-01 22:35:00,Péssima qualidade,negative,negative,109,0.92
+2025-06-01 22:40:00,Muito satisfeito com a compra,positive,positive,185,0.85
+2025-06-01 22:45:00,Excelente atendimento,positive,positive,153,0.82
+2025-06-01 22:50:00,Não funcionou direito,negative,negative,126,0.78
+2025-06-01 22:55:00,Super recomendo,positive,positive,147,0.79
+2025-06-01 23:00:00,Produto chegou quebrado,negative,negative,102,0.85
+2025-06-01 23:05:00,Péssima qualidade,negative,negative,138,0.78
+2025-06-01 23:10:00,"Muito ruim, não recomendo",negative,negative,119,0.74
+2025-06-01 23:15:00,Péssima qualidade,negative,negative,155,0.79
+2025-06-01 23:20:00,Experiência horrível,negative,negative,123,0.76
+2025-06-01 23:25:00,Super recomendo,positive,positive,107,0.98
+2025-06-01 23:30:00,Excelente atendimento,positive,positive,166,0.81
+2025-06-01 23:35:00,Entrega rápida e produto perfeito,negative,positive,106,0.81
+2025-06-01 23:40:00,"Produto muito bom, gostei",positive,positive,125,1.0
+2025-06-01 23:45:00,Produto chegou quebrado,negative,negative,135,0.97
+2025-06-01 23:50:00,"Muito ruim, não recomendo",negative,negative,200,0.87
+2025-06-01 23:55:00,Péssima qualidade,negative,negative,115,0.84
+2025-06-02 00:00:00,"Muito ruim, não recomendo",negative,negative,182,0.91
+2025-06-02 00:05:00,"Produto muito bom, gostei",positive,positive,173,0.94
+2025-06-02 00:10:00,"Produto muito bom, gostei",positive,positive,141,0.97
+2025-06-02 00:15:00,Super recomendo,positive,positive,175,0.71
+2025-06-02 00:20:00,Excelente atendimento,positive,positive,141,0.88
+2025-06-02 00:25:00,Excelente atendimento,positive,positive,176,0.97
+2025-06-02 00:30:00,"Muito ruim, não recomendo",negative,negative,141,0.96
+2025-06-02 00:35:00,Péssima qualidade,negative,negative,107,0.74
+2025-06-02 00:40:00,"Produto muito bom, gostei",positive,positive,120,0.74
+2025-06-02 00:45:00,"Muito ruim, não recomendo",positive,negative,147,0.72
+2025-06-02 00:50:00,Não funcionou direito,negative,negative,163,0.71
+2025-06-02 00:55:00,Muito satisfeito com a compra,positive,positive,102,0.83
+2025-06-02 01:00:00,Não funcionou direito,negative,negative,119,0.72
+2025-06-02 01:05:00,"Muito ruim, não recomendo",negative,negative,160,0.75
+2025-06-02 01:10:00,Produto chegou quebrado,negative,negative,160,0.97
+2025-06-02 01:15:00,Péssima qualidade,negative,negative,173,0.99
+2025-06-02 01:20:00,"Muito ruim, não recomendo",positive,negative,107,0.77
+2025-06-02 01:25:00,Entrega rápida e produto perfeito,positive,positive,159,0.71
+2025-06-02 01:30:00,Produto chegou quebrado,negative,negative,187,0.74
+2025-06-02 01:35:00,Produto chegou quebrado,negative,negative,120,0.71
+2025-06-02 01:40:00,Muito satisfeito com a compra,positive,positive,164,0.72
+2025-06-02 01:45:00,Experiência horrível,negative,negative,170,0.73
+2025-06-02 01:50:00,Excelente atendimento,positive,positive,194,0.76
+2025-06-02 01:55:00,"Muito ruim, não recomendo",negative,negative,196,0.8
+2025-06-02 02:00:00,"Produto muito bom, gostei",positive,positive,160,0.87
+2025-06-02 02:05:00,Produto chegou quebrado,negative,negative,144,0.74
+2025-06-02 02:10:00,Péssima qualidade,negative,negative,161,0.87
+2025-06-02 02:15:00,Produto chegou quebrado,negative,negative,123,0.72
+2025-06-02 02:20:00,"Produto muito bom, gostei",positive,positive,106,0.79
+2025-06-02 02:25:00,Produto chegou quebrado,negative,negative,160,0.89
+2025-06-02 02:30:00,Super recomendo,positive,positive,139,0.93
+2025-06-02 02:35:00,"Muito ruim, não recomendo",negative,negative,141,0.92
+2025-06-02 02:40:00,"Produto muito bom, gostei",positive,positive,198,0.71
+2025-06-02 02:45:00,Muito satisfeito com a compra,positive,positive,190,0.97
+2025-06-02 02:50:00,Entrega rápida e produto perfeito,positive,positive,103,0.84
+2025-06-02 02:55:00,Péssima qualidade,negative,negative,166,0.82
+2025-06-02 03:00:00,Produto chegou quebrado,negative,negative,117,0.99
+2025-06-02 03:05:00,Muito satisfeito com a compra,negative,positive,106,0.91
+2025-06-02 03:10:00,Super recomendo,positive,positive,132,0.99
+2025-06-02 03:15:00,Muito satisfeito com a compra,negative,positive,140,0.85
+2025-06-02 03:20:00,Produto chegou quebrado,negative,negative,149,1.0
+2025-06-02 03:25:00,Produto chegou quebrado,negative,negative,162,0.87
+2025-06-02 03:30:00,"Produto muito bom, gostei",positive,positive,108,0.71
+2025-06-02 03:35:00,Não funcionou direito,negative,negative,178,0.94
+2025-06-02 03:40:00,"Produto muito bom, gostei",negative,positive,130,0.84
+2025-06-02 03:45:00,Excelente atendimento,positive,positive,126,0.94
+2025-06-02 03:50:00,Super recomendo,positive,positive,165,0.86
+2025-06-02 03:55:00,"Muito ruim, não recomendo",negative,negative,117,0.83
+2025-06-02 04:00:00,Produto chegou quebrado,negative,negative,149,0.73
+2025-06-02 04:05:00,"Muito ruim, não recomendo",negative,negative,101,0.86
+2025-06-02 04:10:00,Péssima qualidade,negative,negative,167,0.98
+2025-06-02 04:15:00,Experiência horrível,negative,negative,119,0.73
+2025-06-02 04:20:00,Péssima qualidade,negative,negative,140,0.71
+2025-06-02 04:25:00,Entrega rápida e produto perfeito,positive,positive,183,0.87
+2025-06-02 04:30:00,"Muito ruim, não recomendo",positive,negative,128,0.75
+2025-06-02 04:35:00,Entrega rápida e produto perfeito,positive,positive,140,0.71
+2025-06-02 04:40:00,Experiência horrível,negative,negative,107,0.76
+2025-06-02 04:45:00,Não funcionou direito,negative,negative,142,0.97
+2025-06-02 04:50:00,Experiência horrível,negative,negative,143,0.97
+2025-06-02 04:55:00,Não funcionou direito,positive,negative,154,0.84
+2025-06-02 05:00:00,"Muito ruim, não recomendo",negative,negative,104,1.0
+2025-06-02 05:05:00,Muito satisfeito com a compra,positive,positive,113,0.73
+2025-06-02 05:10:00,Excelente atendimento,positive,positive,156,0.75
+2025-06-02 05:15:00,Experiência horrível,negative,negative,124,0.89
+2025-06-02 05:20:00,Experiência horrível,negative,negative,160,0.84
+2025-06-02 05:25:00,"Muito ruim, não recomendo",negative,negative,160,0.92
+2025-06-02 05:30:00,Experiência horrível,negative,negative,100,0.78
+2025-06-02 05:35:00,"Muito ruim, não recomendo",negative,negative,104,0.89
+2025-06-02 05:40:00,Muito satisfeito com a compra,positive,positive,150,0.96
+2025-06-02 05:45:00,"Muito ruim, não recomendo",negative,negative,124,0.86
+2025-06-02 05:50:00,Não funcionou direito,negative,negative,180,0.82
+2025-06-02 05:55:00,"Produto muito bom, gostei",positive,positive,137,0.81
+2025-06-02 06:00:00,Não funcionou direito,negative,negative,149,0.72
+2025-06-02 06:05:00,Super recomendo,positive,positive,167,0.97
+2025-06-02 06:10:00,Experiência horrível,positive,negative,173,0.77
+2025-06-02 06:15:00,Produto chegou quebrado,negative,negative,142,0.76
+2025-06-02 06:20:00,Excelente atendimento,negative,positive,184,0.96
+2025-06-02 06:25:00,Experiência horrível,negative,negative,192,0.81
+2025-06-02 06:30:00,Excelente atendimento,positive,positive,132,0.93
+2025-06-02 06:35:00,Super recomendo,positive,positive,160,0.92
+2025-06-02 06:40:00,Péssima qualidade,negative,negative,189,0.72
+2025-06-02 06:45:00,"Produto muito bom, gostei",positive,positive,166,0.99
+2025-06-02 06:50:00,Super recomendo,positive,positive,114,0.75
+2025-06-02 06:55:00,"Produto muito bom, gostei",negative,positive,134,0.95
+2025-06-02 07:00:00,Excelente atendimento,positive,positive,163,0.93
+2025-06-02 07:05:00,Péssima qualidade,negative,negative,188,0.83
+2025-06-02 07:10:00,Péssima qualidade,negative,negative,174,0.98
+2025-06-02 07:15:00,Experiência horrível,negative,negative,101,0.82
+2025-06-02 07:20:00,Super recomendo,positive,positive,193,0.78
+2025-06-02 07:25:00,Experiência horrível,negative,negative,167,0.83
+2025-06-02 07:30:00,Péssima qualidade,negative,negative,104,0.76
+2025-06-02 07:35:00,"Muito ruim, não recomendo",negative,negative,147,0.87
+2025-06-02 07:40:00,Super recomendo,negative,positive,115,0.73
+2025-06-02 07:45:00,Não funcionou direito,negative,negative,178,0.75
+2025-06-02 07:50:00,"Produto muito bom, gostei",positive,positive,102,0.94
+2025-06-02 07:55:00,Péssima qualidade,negative,negative,185,0.99
+2025-06-02 08:00:00,Produto chegou quebrado,negative,negative,155,0.83
+2025-06-02 08:05:00,Experiência horrível,negative,negative,180,0.71
+2025-06-02 08:10:00,Super recomendo,positive,positive,196,0.75
+2025-06-02 08:15:00,Entrega rápida e produto perfeito,positive,positive,164,0.83
+2025-06-02 08:20:00,Excelente atendimento,positive,positive,182,0.87
+2025-06-02 08:25:00,Não funcionou direito,negative,negative,175,0.83
+2025-06-02 08:30:00,"Muito ruim, não recomendo",negative,negative,144,0.93
+2025-06-02 08:35:00,Experiência horrível,negative,negative,140,0.8
+2025-06-02 08:40:00,Super recomendo,negative,positive,150,0.95
+2025-06-02 08:45:00,"Produto muito bom, gostei",positive,positive,135,0.93
+2025-06-02 08:50:00,Péssima qualidade,negative,negative,160,0.99
+2025-06-02 08:55:00,Super recomendo,positive,positive,112,1.0
+2025-06-02 09:00:00,"Produto muito bom, gostei",positive,positive,141,0.92
+2025-06-02 09:05:00,Experiência horrível,negative,negative,147,0.93
+2025-06-02 09:10:00,Péssima qualidade,negative,negative,162,1.0
+2025-06-02 09:15:00,Experiência horrível,negative,negative,142,0.82
+2025-06-02 09:20:00,Experiência horrível,negative,negative,151,0.76
+2025-06-02 09:25:00,Experiência horrível,negative,negative,124,0.71
+2025-06-02 09:30:00,Experiência horrível,negative,negative,184,0.99
+2025-06-02 09:35:00,Muito satisfeito com a compra,positive,positive,163,1.0
+2025-06-02 09:40:00,Entrega rápida e produto perfeito,positive,positive,166,0.75
+2025-06-02 09:45:00,Experiência horrível,negative,negative,185,0.8
+2025-06-02 09:50:00,"Muito ruim, não recomendo",negative,negative,171,0.71
+2025-06-02 09:55:00,Muito satisfeito com a compra,positive,positive,124,0.92
+2025-06-02 10:00:00,Excelente atendimento,negative,positive,145,0.84
+2025-06-02 10:05:00,Produto chegou quebrado,negative,negative,161,0.79
+2025-06-02 10:10:00,Experiência horrível,negative,negative,100,0.95
+2025-06-02 10:15:00,Péssima qualidade,negative,negative,114,0.96
+2025-06-02 10:20:00,"Muito ruim, não recomendo",negative,negative,171,1.0
+2025-06-02 10:25:00,Não funcionou direito,negative,negative,104,0.95
+2025-06-02 10:30:00,Muito satisfeito com a compra,negative,positive,160,0.72
+2025-06-02 10:35:00,Péssima qualidade,negative,negative,119,0.92
+2025-06-02 10:40:00,"Produto muito bom, gostei",positive,positive,181,0.87
+2025-06-02 10:45:00,Péssima qualidade,negative,negative,193,0.77
+2025-06-02 10:50:00,Péssima qualidade,positive,negative,177,0.71
+2025-06-02 10:55:00,Super recomendo,positive,positive,171,0.99
+2025-06-02 11:00:00,Experiência horrível,negative,negative,107,0.75
+2025-06-02 11:05:00,Entrega rápida e produto perfeito,positive,positive,131,0.98
+2025-06-02 11:10:00,Muito satisfeito com a compra,positive,positive,123,0.9
+2025-06-02 11:15:00,Excelente atendimento,positive,positive,127,0.81
+2025-06-02 11:20:00,Péssima qualidade,negative,negative,117,0.73
+2025-06-02 11:25:00,Experiência horrível,negative,negative,109,0.85
+2025-06-02 11:30:00,Péssima qualidade,negative,negative,187,0.85
+2025-06-02 11:35:00,"Muito ruim, não recomendo",negative,negative,139,0.91
+2025-06-02 11:40:00,Péssima qualidade,negative,negative,130,0.94
+2025-06-02 11:45:00,Não funcionou direito,negative,negative,150,0.85
+2025-06-02 11:50:00,Super recomendo,positive,positive,143,0.75
+2025-06-02 11:55:00,Não funcionou direito,negative,negative,116,0.96
+2025-06-02 12:00:00,Muito satisfeito com a compra,positive,positive,200,0.78
+2025-06-02 12:05:00,Péssima qualidade,negative,negative,200,0.86
+2025-06-02 12:10:00,Experiência horrível,negative,negative,119,0.88
+2025-06-02 12:15:00,Super recomendo,positive,positive,124,0.86
+2025-06-02 12:20:00,"Muito ruim, não recomendo",negative,negative,150,0.9
+2025-06-02 12:25:00,Péssima qualidade,negative,negative,164,0.73
+2025-06-02 12:30:00,Muito satisfeito com a compra,positive,positive,157,0.89
+2025-06-02 12:35:00,Não funcionou direito,negative,negative,198,0.78
+2025-06-02 12:40:00,Produto chegou quebrado,negative,negative,139,0.92
+2025-06-02 12:45:00,Produto chegou quebrado,negative,negative,189,1.0
+2025-06-02 12:50:00,Excelente atendimento,positive,positive,169,0.92
+2025-06-02 12:55:00,Muito satisfeito com a compra,positive,positive,151,0.71
+2025-06-02 13:00:00,Muito satisfeito com a compra,positive,positive,174,0.84
+2025-06-02 13:05:00,Produto chegou quebrado,negative,negative,175,0.74
+2025-06-02 13:10:00,Péssima qualidade,negative,negative,166,0.83
+2025-06-02 13:15:00,Muito satisfeito com a compra,positive,positive,195,0.8
+2025-06-02 13:20:00,Super recomendo,negative,positive,193,0.8
+2025-06-02 13:25:00,Entrega rápida e produto perfeito,negative,positive,151,0.92
+2025-06-02 13:30:00,Muito satisfeito com a compra,positive,positive,125,0.82
+2025-06-02 13:35:00,Não funcionou direito,negative,negative,106,0.81
+2025-06-02 13:40:00,"Muito ruim, não recomendo",negative,negative,179,0.86
+2025-06-02 13:45:00,Super recomendo,positive,positive,157,0.78
+2025-06-02 13:50:00,Produto chegou quebrado,negative,negative,134,0.93
+2025-06-02 13:55:00,Produto chegou quebrado,negative,negative,164,0.79
+2025-06-02 14:00:00,"Produto muito bom, gostei",positive,positive,103,0.88
+2025-06-02 14:05:00,Super recomendo,positive,positive,156,0.94
+2025-06-02 14:10:00,Entrega rápida e produto perfeito,positive,positive,193,0.78
+2025-06-02 14:15:00,Excelente atendimento,positive,positive,110,0.79
+2025-06-02 14:20:00,Experiência horrível,negative,negative,101,0.74
+2025-06-02 14:25:00,"Muito ruim, não recomendo",negative,negative,137,0.97
+2025-06-02 14:30:00,Muito satisfeito com a compra,positive,positive,161,0.81
+2025-06-02 14:35:00,Muito satisfeito com a compra,negative,positive,139,0.85
+2025-06-02 14:40:00,Péssima qualidade,negative,negative,139,0.88
+2025-06-02 14:45:00,Muito satisfeito com a compra,positive,positive,182,0.87
+2025-06-02 14:50:00,Péssima qualidade,negative,negative,180,0.99
+2025-06-02 14:55:00,Experiência horrível,negative,negative,141,0.81
+2025-06-02 15:00:00,"Produto muito bom, gostei",positive,positive,140,0.85
+2025-06-02 15:05:00,Muito satisfeito com a compra,negative,positive,146,1.0
+2025-06-02 15:10:00,Não funcionou direito,negative,negative,148,0.87
+2025-06-02 15:15:00,Super recomendo,negative,positive,149,0.82
+2025-06-02 15:20:00,Experiência horrível,negative,negative,153,0.92
+2025-06-02 15:25:00,Não funcionou direito,positive,negative,177,0.74
+2025-06-02 15:30:00,Produto chegou quebrado,positive,negative,117,0.93
+2025-06-02 15:35:00,Excelente atendimento,positive,positive,161,0.75
+2025-06-02 15:40:00,"Muito ruim, não recomendo",negative,negative,179,0.99
+2025-06-02 15:45:00,Muito satisfeito com a compra,positive,positive,124,0.83
+2025-06-02 15:50:00,Entrega rápida e produto perfeito,positive,positive,195,0.97
+2025-06-02 15:55:00,Produto chegou quebrado,negative,negative,190,0.93
+2025-06-02 16:00:00,Produto chegou quebrado,negative,negative,180,0.74
+2025-06-02 16:05:00,Não funcionou direito,positive,negative,172,0.84
+2025-06-02 16:10:00,Experiência horrível,positive,negative,139,0.84
+2025-06-02 16:15:00,Não funcionou direito,negative,negative,139,0.86
+2025-06-02 16:20:00,Péssima qualidade,positive,negative,115,0.93
+2025-06-02 16:25:00,Super recomendo,positive,positive,160,0.84
+2025-06-02 16:30:00,"Produto muito bom, gostei",positive,positive,198,0.85
+2025-06-02 16:35:00,"Produto muito bom, gostei",positive,positive,141,0.89
+2025-06-02 16:40:00,"Muito ruim, não recomendo",negative,negative,175,0.72
+2025-06-02 16:45:00,Excelente atendimento,positive,positive,179,0.82
+2025-06-02 16:50:00,Super recomendo,negative,positive,187,0.81
+2025-06-02 16:55:00,Experiência horrível,negative,negative,122,0.72
+2025-06-02 17:00:00,Produto chegou quebrado,negative,negative,119,0.79
+2025-06-02 17:05:00,Péssima qualidade,negative,negative,132,0.79
+2025-06-02 17:10:00,Não funcionou direito,positive,negative,128,0.8
+2025-06-02 17:15:00,Não funcionou direito,negative,negative,131,0.99
+2025-06-02 17:20:00,Muito satisfeito com a compra,negative,positive,120,0.84
+2025-06-02 17:25:00,Péssima qualidade,negative,negative,177,0.75
+2025-06-02 17:30:00,Excelente atendimento,positive,positive,130,0.95
+2025-06-02 17:35:00,"Produto muito bom, gostei",positive,positive,185,0.96
+2025-06-02 17:40:00,Super recomendo,positive,positive,131,0.84
+2025-06-02 17:45:00,Excelente atendimento,positive,positive,144,0.94
+2025-06-02 17:50:00,"Muito ruim, não recomendo",negative,negative,165,0.85
+2025-06-02 17:55:00,Produto chegou quebrado,negative,negative,138,0.97
+2025-06-02 18:00:00,Muito satisfeito com a compra,positive,positive,127,0.76
+2025-06-02 18:05:00,"Produto muito bom, gostei",positive,positive,149,0.71
+2025-06-02 18:10:00,"Produto muito bom, gostei",positive,positive,181,0.99
+2025-06-02 18:15:00,Experiência horrível,positive,negative,183,0.81
+2025-06-02 18:20:00,"Muito ruim, não recomendo",negative,negative,139,0.7
+2025-06-02 18:25:00,Entrega rápida e produto perfeito,negative,positive,128,0.94
+2025-06-02 18:30:00,Não funcionou direito,positive,negative,127,0.74
+2025-06-02 18:35:00,Péssima qualidade,negative,negative,192,0.76
+2025-06-02 18:40:00,Péssima qualidade,negative,negative,151,0.98
+2025-06-02 18:45:00,Péssima qualidade,negative,negative,181,0.74
+2025-06-02 18:50:00,Péssima qualidade,negative,negative,117,0.95
+2025-06-02 18:55:00,Muito satisfeito com a compra,negative,positive,185,0.82
+2025-06-02 19:00:00,Entrega rápida e produto perfeito,negative,positive,180,0.89
+2025-06-02 19:05:00,Não funcionou direito,negative,negative,133,0.96
+2025-06-02 19:10:00,Muito satisfeito com a compra,positive,positive,175,0.88
+2025-06-02 19:15:00,Não funcionou direito,negative,negative,140,0.82
+2025-06-02 19:20:00,Muito satisfeito com a compra,positive,positive,198,0.82
+2025-06-02 19:25:00,Muito satisfeito com a compra,negative,positive,175,0.87
+2025-06-02 19:30:00,Produto chegou quebrado,positive,negative,141,0.86
+2025-06-02 19:35:00,Produto chegou quebrado,positive,negative,113,0.95
+2025-06-02 19:40:00,"Produto muito bom, gostei",negative,positive,171,0.91
+2025-06-02 19:45:00,Entrega rápida e produto perfeito,positive,positive,142,0.72
+2025-06-02 19:50:00,Produto chegou quebrado,positive,negative,147,0.73
+2025-06-02 19:55:00,"Produto muito bom, gostei",negative,positive,103,0.97
+2025-06-02 20:00:00,Produto chegou quebrado,negative,negative,122,0.72
+2025-06-02 20:05:00,Muito satisfeito com a compra,negative,positive,113,0.75
+2025-06-02 20:10:00,Péssima qualidade,positive,negative,196,0.72
+2025-06-02 20:15:00,Produto chegou quebrado,negative,negative,151,1.0
+2025-06-02 20:20:00,Produto chegou quebrado,negative,negative,111,0.94
+2025-06-02 20:25:00,"Produto muito bom, gostei",negative,positive,168,0.71
+2025-06-02 20:30:00,"Muito ruim, não recomendo",negative,negative,179,0.99
+2025-06-02 20:35:00,Produto chegou quebrado,negative,negative,170,0.9
+2025-06-02 20:40:00,Muito satisfeito com a compra,positive,positive,192,0.83
+2025-06-02 20:45:00,Não funcionou direito,positive,negative,136,0.98
+2025-06-02 20:50:00,Não funcionou direito,negative,negative,151,0.82
+2025-06-02 20:55:00,Produto chegou quebrado,negative,negative,167,0.73
+2025-06-02 21:00:00,Péssima qualidade,negative,negative,114,0.99
+2025-06-02 21:05:00,Produto chegou quebrado,negative,negative,114,0.86
+2025-06-02 21:10:00,"Produto muito bom, gostei",positive,positive,141,1.0
+2025-06-02 21:15:00,Excelente atendimento,negative,positive,189,0.93
+2025-06-02 21:20:00,Não funcionou direito,negative,negative,166,0.85
+2025-06-02 21:25:00,Muito satisfeito com a compra,positive,positive,139,0.88
+2025-06-02 21:30:00,Péssima qualidade,negative,negative,164,0.7
+2025-06-02 21:35:00,"Produto muito bom, gostei",negative,positive,172,0.92
+2025-06-02 21:40:00,Super recomendo,positive,positive,195,0.76
+2025-06-02 21:45:00,Excelente atendimento,negative,positive,146,0.81
+2025-06-02 21:50:00,Excelente atendimento,positive,positive,115,0.83
+2025-06-02 21:55:00,"Produto muito bom, gostei",negative,positive,131,0.72
+2025-06-02 22:00:00,Entrega rápida e produto perfeito,negative,positive,122,0.89
+2025-06-02 22:05:00,Não funcionou direito,negative,negative,103,0.74
+2025-06-02 22:10:00,Excelente atendimento,negative,positive,153,0.81
+2025-06-02 22:15:00,Produto chegou quebrado,negative,negative,114,0.91
+2025-06-02 22:20:00,Produto chegou quebrado,negative,negative,130,0.9
+2025-06-02 22:25:00,Não funcionou direito,positive,negative,145,0.72
+2025-06-02 22:30:00,Experiência horrível,negative,negative,149,0.9
+2025-06-02 22:35:00,Super recomendo,positive,positive,152,0.87
+2025-06-02 22:40:00,"Muito ruim, não recomendo",negative,negative,123,0.9
+2025-06-02 22:45:00,"Produto muito bom, gostei",positive,positive,150,0.98
+2025-06-02 22:50:00,Péssima qualidade,negative,negative,166,0.74
+2025-06-02 22:55:00,Não funcionou direito,positive,negative,185,0.81
+2025-06-02 23:00:00,Muito satisfeito com a compra,positive,positive,120,0.86
+2025-06-02 23:05:00,Experiência horrível,positive,negative,195,0.88
+2025-06-02 23:10:00,Não funcionou direito,negative,negative,186,0.83
+2025-06-02 23:15:00,Excelente atendimento,negative,positive,113,0.75
+2025-06-02 23:20:00,Experiência horrível,negative,negative,115,0.8
+2025-06-02 23:25:00,Não funcionou direito,negative,negative,175,0.8
+2025-06-02 23:30:00,Excelente atendimento,positive,positive,160,0.98
+2025-06-02 23:35:00,Excelente atendimento,negative,positive,180,0.96
+2025-06-02 23:40:00,Entrega rápida e produto perfeito,negative,positive,160,0.94
+2025-06-02 23:45:00,Super recomendo,positive,positive,161,0.82
+2025-06-02 23:50:00,Péssima qualidade,positive,negative,176,0.85
+2025-06-02 23:55:00,Excelente atendimento,positive,positive,116,0.94
+2025-06-03 00:00:00,Muito satisfeito com a compra,negative,positive,174,0.7
+2025-06-03 00:05:00,Produto chegou quebrado,negative,negative,150,0.9
+2025-06-03 00:10:00,Péssima qualidade,negative,negative,197,0.97
+2025-06-03 00:15:00,Produto chegou quebrado,negative,negative,178,0.77
+2025-06-03 00:20:00,Produto chegou quebrado,negative,negative,193,0.84
+2025-06-03 00:25:00,Não funcionou direito,negative,negative,106,0.98
+2025-06-03 00:30:00,Produto chegou quebrado,positive,negative,110,0.74
+2025-06-03 00:35:00,"Muito ruim, não recomendo",negative,negative,182,0.74
+2025-06-03 00:40:00,Muito satisfeito com a compra,negative,positive,156,0.91
+2025-06-03 00:45:00,"Muito ruim, não recomendo",negative,negative,130,0.84
+2025-06-03 00:50:00,Péssima qualidade,negative,negative,188,0.78
+2025-06-03 00:55:00,Muito satisfeito com a compra,negative,positive,195,0.99
+2025-06-03 01:00:00,Experiência horrível,negative,negative,170,0.97
+2025-06-03 01:05:00,Produto chegou quebrado,negative,negative,133,0.78
+2025-06-03 01:10:00,Excelente atendimento,positive,positive,157,0.93
+2025-06-03 01:15:00,Entrega rápida e produto perfeito,positive,positive,179,1.0
+2025-06-03 01:20:00,Não funcionou direito,positive,negative,113,0.72
+2025-06-03 01:25:00,"Muito ruim, não recomendo",negative,negative,124,0.96
+2025-06-03 01:30:00,Muito satisfeito com a compra,negative,positive,156,0.87
+2025-06-03 01:35:00,"Muito ruim, não recomendo",negative,negative,195,0.85
